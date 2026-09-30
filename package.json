@@ -1,0 +1,1 @@
+{"name":"ddoktti-here-website","version":"1.0.0","private":true,"type":"module","engines":{"node":">=24"},"scripts":{"build":"node build.mjs","start":"node server.mjs","check":"node --check build.mjs && node --check server.mjs"},"devDependencies":{"marked":"18.0.14"}}
